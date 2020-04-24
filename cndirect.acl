@@ -820,6 +820,8 @@
 (^|\.)toolbarqueries\.google\.com$
 (^|\.)tools\.google\.com$
 (^|\.)tools\.l\.google\.com$
+(^|\.)translate\.google\.cn$
+(^|\.)translate\.googleapis\.com$
 (^|\.)update\.googleapis\.com$
 (^|\.)www-googletagmanager\.l\.google\.com$
 (^|\.)www\.gstatic\.com$
