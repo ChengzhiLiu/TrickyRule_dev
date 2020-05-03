@@ -2,6 +2,7 @@
 #*************************************************************************************
 [outbound_block_list]
 # Website Hijacking
+(^|\.)activity\.qqjyo\.com$
 (^|\.)ago\.xcp79a\.top$
 (^|\.)backup\.flytech\.xyz$
 (^|\.)bitbk\.mnk0794\.com$
@@ -13,8 +14,11 @@
 (^|\.)m\.ajdyw\.top$
 (^|\.)m\.akdj\.top$
 (^|\.)m\.baiv\.pw$
+(^|\.)m\.cc64\.cn$
 (^|\.)m\.chateacher\.com$
 (^|\.)m\.dzdkw9\.cn$
+(^|\.)m\.jinsqq\.com$
+(^|\.)m\.p9q2wrd\.wang$
 (^|\.)m\.qc35h96\.wang$
 (^|\.)m\.r29cob\.top$
 (^|\.)m\.rprgn\.cn$
@@ -1169,6 +1173,7 @@
 (^|\.)ganjistatic1\.com$
 (^|\.)geetest\.com$
 (^|\.)geilicdn\.com$
+(^|\.)giffgaff\.com$
 (^|\.)godic\.net$
 (^|\.)gravatar\.com$
 (^|\.)guazi\.com$
