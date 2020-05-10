@@ -770,9 +770,7 @@
 (^|\.)unrealengine\.com$
 
 # Gameloft
-(^|\.)201205igp\.gameloft\.com$
-(^|\.)etsv2\.gameloft\.com$
-(^|\.)iap\.gameloft\.com$
+(^|\.)gameloft\.com$
 162.244.88.0/22
 198.136.44.0/22
 208.71.184.0/22
