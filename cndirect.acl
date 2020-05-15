@@ -37,6 +37,7 @@
 (^|\.)s\.fisherh\.top$
 (^|\.)safe\.hbtnfeishi\.com$
 (^|\.)www\.dlxfczs\.com$
+(^|\.)yqs\.kfweo2\.com$
 (^|\.)yqs\.ubrty\.com$
 #*************************************************************************************
 [proxy_list]
@@ -284,6 +285,7 @@
 
 # Google
 (^|\.)1e100\.net$
+(^|\.)android\.clients\.google\.com$
 (^|\.)fcm\.googleapis\.com$
 (^|\.)g\.co$
 (^|\.)ggpht\.com$
@@ -293,6 +295,10 @@
 (^|\.)gstatic\.cn$
 (^|\.)gvt0\.com$
 (^|\.)gvt3\.com$
+(^|\.)lh3\.googleusercontent\.com$
+(^|\.)play\.googleapis\.com$
+(^|\.)services\.googleapis\.com$
+(^|\.)www\.googleapis\.com$
 (^|\.)xn--ngstr-lra8j\.com$
 (^|\.)youtu\.be$
 (^|\.)youtube-nocookie\.com$
