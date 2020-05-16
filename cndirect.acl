@@ -285,20 +285,27 @@
 
 # Google
 (^|\.)1e100\.net$
-(^|\.)android\.clients\.google\.com$
+(^|\.)accounts\.google\.com$
+(^|\.)android\.googleapis\.com$
+(^|\.)clients[1-6]\.google\.com$
+(^|\.)clients\.google\.com$
+(^|\.)dl-ssl\.google\.com$
+(^|\.)fcm-xmpp\.googleapis\.com$
 (^|\.)fcm\.googleapis\.com$
 (^|\.)g\.co$
 (^|\.)ggpht\.com$
 (^|\.)goo\.gl$
+(^|\.)google-analytics\.com$
 (^|\.)googleapis\.cn$
+(^|\.)googleusercontent\.com$
 (^|\.)googlevideo\.com$
 (^|\.)gstatic\.cn$
 (^|\.)gvt0\.com$
 (^|\.)gvt3\.com$
-(^|\.)lh3\.googleusercontent\.com$
+(^|\.)myaccount\.google\.com$
+(^|\.)play\.google\.com$
 (^|\.)play\.googleapis\.com$
 (^|\.)services\.googleapis\.com$
-(^|\.)www\.googleapis\.com$
 (^|\.)xn--ngstr-lra8j\.com$
 (^|\.)youtu\.be$
 (^|\.)youtube-nocookie\.com$
@@ -307,6 +314,7 @@
 (^|\.)youtubei\.googleapis\.com$
 (^|\.)yt\.be$
 (^|\.)ytimg\.com$
+^android\.clients\.google\.com$
 8.8.8.8/32
 8.8.4.4/32
 
