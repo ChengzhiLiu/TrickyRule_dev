@@ -284,8 +284,7 @@
 (^|\.)s3\.amazonaws\.com$
 
 # Google
-(^|\.)1e100\.net$
-(^|\.)accounts\.google\.com$
+(^|\.)accounts\.google\..*$
 (^|\.)android\.googleapis\.com$
 (^|\.)clients[1-6]\.google\.com$
 (^|\.)clients\.google\.com$
