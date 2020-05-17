@@ -72,6 +72,7 @@
 (^|\.)\w*fbcdn\w*\.\w*$
 (^|\.)\w*github\w*\.\w*$
 (^|\.)\w*gmail\w*\.\w*$
+(^|\.)\w*imgur\w*\.\w*$
 (^|\.)\w*instagram\w*\.\w*$
 (^|\.)\w*porn\w*\.\w*$
 (^|\.)\w*sci-hub\w*\.\w*$
@@ -235,6 +236,27 @@
 (^|\.)bbc\.co$
 (^|\.)bbc\.com$
 
+# Developer
+(^|\.)apache\.org$
+(^|\.)docker\.com$
+(^|\.)elastic\.co$
+(^|\.)elastic\.com$
+(^|\.)gcr\.io$
+(^|\.)gitlab\.com$
+(^|\.)gitlab\.io$
+(^|\.)jitpack\.io$
+(^|\.)maven\.org$
+(^|\.)medium\.com$
+(^|\.)mvnrepository\.com$
+(^|\.)quay\.io$
+(^|\.)reddit\.com$
+(^|\.)redhat\.com$
+(^|\.)sonatype\.org$
+(^|\.)sourcegraph\.com$
+(^|\.)spring\.io$
+(^|\.)spring\.net$
+(^|\.)stackoverflow\.com$
+
 # Discord
 (^|\.)discord\.gg$
 (^|\.)discord\.media$
@@ -305,6 +327,7 @@
 (^|\.)play\.google\.com$
 (^|\.)play\.googleapis\.com$
 (^|\.)services\.googleapis\.com$
+(^|\.)www\.googleapis\.com$
 (^|\.)xn--ngstr-lra8j\.com$
 (^|\.)youtu\.be$
 (^|\.)youtube-nocookie\.com$
@@ -1117,6 +1140,7 @@
 # Others
 (^|\.)12306\.com$
 (^|\.)17173\.com$
+(^|\.)178\.com$
 (^|\.)17k\.com$
 (^|\.)360doc\.com$
 (^|\.)36kr\.com$
@@ -1196,6 +1220,7 @@
 (^|\.)ganjistatic1\.com$
 (^|\.)geetest\.com$
 (^|\.)geilicdn\.com$
+(^|\.)ghpym\.com$
 (^|\.)giffgaff\.com$
 (^|\.)godic\.net$
 (^|\.)gravatar\.com$
@@ -1255,6 +1280,7 @@
 (^|\.)meituan\.com$
 (^|\.)meituan\.net$
 (^|\.)meizu\.com$
+(^|\.)migucloud\.com$
 (^|\.)miguvideo\.com$
 (^|\.)mobike\.com$
 (^|\.)mogu\.com$
@@ -1355,6 +1381,7 @@
 (^|\.)xiaohongshu\.com$
 (^|\.)xiaojukeji\.com$
 (^|\.)xinhuanet\.com$
+(^|\.)xip\.io$
 (^|\.)xitek\.com$
 (^|\.)xiumi\.us$
 (^|\.)xslb\.net$
