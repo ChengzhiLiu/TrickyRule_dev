@@ -160,7 +160,6 @@
 (^|\.)livefilestore\.com$
 (^|\.)llnwd\.net$
 (^|\.)macrumors\.com$
-(^|\.)medium\.com$
 (^|\.)mega\.nz$
 (^|\.)megaupload\.com$
 (^|\.)messenger\.com$
@@ -177,7 +176,6 @@
 (^|\.)prfct\.co$
 (^|\.)pscp\.tv$
 (^|\.)quora\.com$
-(^|\.)reddit\.com$
 (^|\.)resilio\.com$
 (^|\.)sfx\.ms$
 (^|\.)shadowsocks\.org$
@@ -306,7 +304,9 @@
 (^|\.)s3\.amazonaws\.com$
 
 # Google
+(^|\.)\w*---\w*\.gvt1\.com$
 (^|\.)accounts\.google\..*$
+(^|\.)android-safebrowsing\.google\.com$
 (^|\.)android\.googleapis\.com$
 (^|\.)clients[1-6]\.google\.com$
 (^|\.)clients\.google\.com$
@@ -327,6 +327,8 @@
 (^|\.)play\.google\.com$
 (^|\.)play\.googleapis\.com$
 (^|\.)services\.googleapis\.com$
+(^|\.)voledevice-pa\.googleapis\.com$
+(^|\.)www\.google\..*$
 (^|\.)www\.googleapis\.com$
 (^|\.)xn--ngstr-lra8j\.com$
 (^|\.)youtu\.be$
@@ -968,7 +970,7 @@
 (^|\.)pptv\.com$
 
 # Samsung
-(^|\.)\w*samsung\w*\.\w*$
+(^|\.)\w*samsung\w*\..*$
 (^|\.)az335309\.vo\.msecnd\.net$
 (^|\.)galaxy\.wni\.com$
 (^|\.)galaxyappstore\.com$
