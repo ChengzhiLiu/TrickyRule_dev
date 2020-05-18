@@ -304,7 +304,7 @@
 (^|\.)s3\.amazonaws\.com$
 
 # Google
-(^|\.)\w*---\w*\.gvt1\.com$
+(^|\.).*---.*\.gvt1\.com$
 (^|\.)accounts\.google\..*$
 (^|\.)android-safebrowsing\.google\.com$
 (^|\.)android\.googleapis\.com$
@@ -971,7 +971,7 @@
 (^|\.)pptv\.com$
 
 # Samsung
-(^|\.)\w*samsung\w*\..*$
+(^|\.).*samsung.*\..*$
 (^|\.)az335309\.vo\.msecnd\.net$
 (^|\.)galaxy\.wni\.com$
 (^|\.)galaxyappstore\.com$
