@@ -314,6 +314,7 @@
 (^|\.)chromeos-ca\.gstatic\.com$
 (^|\.)clients[0-9]\.google\.com$
 (^|\.)clients\.google\.com$
+(^|\.)connectivitycheck\.gstatic\.com$
 (^|\.)csi\.gstatic\.com$
 (^|\.)digitalassetlinks\.googleapis\.com$
 (^|\.)dl-ssl\.google\.com$
@@ -855,7 +856,6 @@
 (^|\.)checkin\.gstatic\.com$
 (^|\.)clickserve\.dartsearch\.net$
 (^|\.)clientservices\.googleapis\.com$
-(^|\.)connectivitycheck\.gstatic\.com$
 (^|\.)crl\.pki\.goog$
 (^|\.)dl\.google\.com$
 (^|\.)dl\.l\.google\.com$
