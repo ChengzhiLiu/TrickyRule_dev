@@ -304,6 +304,7 @@
 (^|\.)s3\.amazonaws\.com$
 
 # Google
+(^|\.)\w*---\w*\.gvt1\.com$
 (^|\.)accounts\.google\..*$
 (^|\.)android-safebrowsing\.google\.com$
 (^|\.)android\.googleapis\.com$
@@ -323,7 +324,6 @@
 (^|\.)googlevideo\.com$
 (^|\.)gstatic\.cn$
 (^|\.)gvt0\.com$
-(^|\.)gvt1\.com$
 (^|\.)gvt3\.com$
 (^|\.)myaccount\.google\.com$
 (^|\.)play\.google\.com$
@@ -864,6 +864,7 @@
 (^|\.)mtalk\.google\.com$
 (^|\.)ocsp\.pki\.goog$
 (^|\.)recaptcha\.net$
+(^|\.)redirector\.gvt1\.com$
 (^|\.)safebrowsing-cache\.google\.com$
 (^|\.)safebrowsing\.googleapis\.com$
 (^|\.)settings\.crashlytics\.com$
