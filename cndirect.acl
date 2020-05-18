@@ -351,6 +351,7 @@
 (^|\.)t[0-9]\.gstatic\.com$
 (^|\.)www\.google\..*$
 (^|\.)www\.googleapis\.com$
+(^|\.)www\.gstatic\.com$
 (^|\.)xn--ngstr-lra8j\.com$
 (^|\.)youtu\.be$
 (^|\.)youtube-nocookie\.com$
@@ -895,7 +896,6 @@
 (^|\.)translate\.googleapis\.com$
 (^|\.)update\.googleapis\.com$
 (^|\.)www-googletagmanager\.l\.google\.com$
-(^|\.)www\.gstatic\.com$
 
 # HuaWei
 (^|\.)dbankcdn\.com$
