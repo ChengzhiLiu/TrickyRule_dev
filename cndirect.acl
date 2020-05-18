@@ -304,12 +304,13 @@
 (^|\.)s3\.amazonaws\.com$
 
 # Google
-(^|\.)\w*---\w*\.gvt1\.com$
 (^|\.)accounts\.google\..*$
 (^|\.)android-safebrowsing\.google\.com$
 (^|\.)android\.googleapis\.com$
+(^|\.)books\.google\.com$
 (^|\.)clients[1-6]\.google\.com$
 (^|\.)clients\.google\.com$
+(^|\.)digitalassetlinks\.googleapis\.com$
 (^|\.)dl-ssl\.google\.com$
 (^|\.)fcm-xmpp\.googleapis\.com$
 (^|\.)fcm\.googleapis\.com$
@@ -322,12 +323,13 @@
 (^|\.)googlevideo\.com$
 (^|\.)gstatic\.cn$
 (^|\.)gvt0\.com$
+(^|\.)gvt1\.com$
 (^|\.)gvt3\.com$
 (^|\.)myaccount\.google\.com$
 (^|\.)play\.google\.com$
 (^|\.)play\.googleapis\.com$
+(^|\.)playbooks-pa\.googleapis\.com$
 (^|\.)services\.googleapis\.com$
-(^|\.)voledevice-pa\.googleapis\.com$
 (^|\.)www\.google\..*$
 (^|\.)www\.googleapis\.com$
 (^|\.)xn--ngstr-lra8j\.com$
@@ -338,7 +340,6 @@
 (^|\.)youtubei\.googleapis\.com$
 (^|\.)yt\.be$
 (^|\.)ytimg\.com$
-^android\.clients\.google\.com$
 8.8.8.8/32
 8.8.4.4/32
 
@@ -863,7 +864,6 @@
 (^|\.)mtalk\.google\.com$
 (^|\.)ocsp\.pki\.goog$
 (^|\.)recaptcha\.net$
-(^|\.)redirector\.gvt1\.com$
 (^|\.)safebrowsing-cache\.google\.com$
 (^|\.)safebrowsing\.googleapis\.com$
 (^|\.)settings\.crashlytics\.com$
