@@ -304,7 +304,6 @@
 (^|\.)s3\.amazonaws\.com$
 
 # Google
-(^|\.).*---.*\.gvt1\.com$
 (^|\.)accounts\.google\..*$
 (^|\.)accounts\.gstatic\.com$
 (^|\.)alt[0-9]*\.gstatic\.com$
@@ -332,6 +331,7 @@
 (^|\.)googlevideo\.com$
 (^|\.)gstatic\.cn$
 (^|\.)gvt0\.com$
+(^|\.)gvt1\.com$
 (^|\.)gvt3\.com$
 (^|\.)lz[0-9]\.gstatic\.com$
 (^|\.)mail\.gstatic\.com$
@@ -883,7 +883,6 @@
 (^|\.)mtalk\.google\.com$
 (^|\.)ocsp\.pki\.goog$
 (^|\.)recaptcha\.net$
-(^|\.)redirector\.gvt1\.com$
 (^|\.)safebrowsing-cache\.google\.com$
 (^|\.)safebrowsing\.googleapis\.com$
 (^|\.)settings\.crashlytics\.com$
