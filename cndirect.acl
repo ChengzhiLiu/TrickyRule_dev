@@ -306,6 +306,7 @@
 # Google
 (^|\.).*---.*\.gvt1\.com$
 (^|\.)accounts\.google\..*$
+(^|\.)accounts\.gstatic\.com$
 (^|\.)android-safebrowsing\.google\.com$
 (^|\.)android\.googleapis\.com$
 (^|\.)books\.google\.com$
@@ -313,8 +314,11 @@
 (^|\.)clients\.google\.com$
 (^|\.)digitalassetlinks\.googleapis\.com$
 (^|\.)dl-ssl\.google\.com$
+(^|\.)encrypted-tbn[0-3]\.gstatic\.com$
+(^|\.)encrypted-vtbn[0-3]\.gstatic\.com$
 (^|\.)fcm-xmpp\.googleapis\.com$
 (^|\.)fcm\.googleapis\.com$
+(^|\.)g[0-3]\.gstatic\.com$
 (^|\.)g\.co$
 (^|\.)ggpht\.com$
 (^|\.)goo\.gl$
@@ -325,11 +329,20 @@
 (^|\.)gstatic\.cn$
 (^|\.)gvt0\.com$
 (^|\.)gvt3\.com$
+(^|\.)mail\.gstatic\.com$
+(^|\.)maps\.gstatic\.com$
+(^|\.)maps\.gstatic\.com$
+(^|\.)metric\.gstatic\.com$
+(^|\.)metric\.gstatic\.com$
+(^|\.)mw1\.gstatic\.com$
 (^|\.)myaccount\.google\.com$
+(^|\.)ns[0-4]\.google\.com$
+(^|\.)openvpn\.gstatic\.com$
 (^|\.)play\.google\.com$
 (^|\.)play\.googleapis\.com$
 (^|\.)playbooks-pa\.googleapis\.com$
 (^|\.)services\.googleapis\.com$
+(^|\.)t[0-3]\.gstatic\.com$
 (^|\.)www\.google\..*$
 (^|\.)www\.googleapis\.com$
 (^|\.)xn--ngstr-lra8j\.com$
