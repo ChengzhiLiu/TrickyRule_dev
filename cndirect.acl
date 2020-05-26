@@ -591,10 +591,10 @@
 2001:b28:f23f::/48
 
 # Twitch
-(^|\.)twitch\.tv$
-(^|\.)ttvnw\.net$
+(^|\.).*ttvnw\.akamaized\.net$
 (^|\.)jtvnw\.net$
-(^|\.)akamaized\.net$
+(^|\.)ttvnw\.net$
+(^|\.)twitch\.tv$
 
 # Twitter
 (^|\.)t\.co$
@@ -1158,6 +1158,7 @@
 (^|\.)upaiyun\.com$
 
 # Others
+(^|\.)115\.com$
 (^|\.)12306\.com$
 (^|\.)17173\.com$
 (^|\.)178\.com$
