@@ -1049,6 +1049,13 @@
 (^|\.)smartmailcloud\.com$
 
 # Steam
+(^|\.)cdn\.mileweb\.cs\.steampowered\.com\.8686c\.com$
+(^|\.)csgo\.wmsj\.cn$
+(^|\.)dl\.steam\.ksyna\.com$
+(^|\.)dota2\.wmsj\.cn$
+(^|\.)st\.dl\.bscstorage\.net$
+(^|\.)st\.dl\.eccdnx\.com$
+(^|\.)st\.dl\.pinyuncloud\.com$
 (^|\.)steam-chat\.com$
 (^|\.)steamcdn-a\.akamaihd\.net$
 (^|\.)steamcontent\.com$
