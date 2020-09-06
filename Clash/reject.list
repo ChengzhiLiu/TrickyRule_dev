@@ -1,8 +1,21 @@
 [reject_list]
+# Rubbish
+DOMAIN-SUFFIX,dafahao.com
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,dongtaiwang.com
+DOMAIN-SUFFIX,epochtimes.com
+DOMAIN-SUFFIX,falundafa.org
+DOMAIN-SUFFIX,minghui.org
+DOMAIN-SUFFIX,ntdtv.com
+DOMAIN-SUFFIX,pincong.rocks
+DOMAIN-SUFFIX,soundofhope.org
+DOMAIN-SUFFIX,wujieliulan.com
+
 # Website Hijacking
+DOMAIN-SUFFIX,activity.qqjyo.com
 DOMAIN-SUFFIX,ago.xcp79a.top
 DOMAIN-SUFFIX,backup.flytech.xyz
 DOMAIN-SUFFIX,bitbk.mnk0794.com
+DOMAIN-SUFFIX,boxer.baidu.com
 DOMAIN-SUFFIX,cn.suyouxuan.com
 DOMAIN-SUFFIX,cnzz.pb5n.cn
 DOMAIN-SUFFIX,gi.dongfeeng.cc
@@ -11,8 +24,12 @@ DOMAIN-SUFFIX,m.adhea.top
 DOMAIN-SUFFIX,m.ajdyw.top
 DOMAIN-SUFFIX,m.akdj.top
 DOMAIN-SUFFIX,m.baiv.pw
+DOMAIN-SUFFIX,m.cc64.cn
 DOMAIN-SUFFIX,m.chateacher.com
 DOMAIN-SUFFIX,m.dzdkw9.cn
+DOMAIN-SUFFIX,m.jinsqq.com
+DOMAIN-SUFFIX,m.kyunheet.cn
+DOMAIN-SUFFIX,m.p9q2wrd.wang
 DOMAIN-SUFFIX,m.qc35h96.wang
 DOMAIN-SUFFIX,m.r29cob.top
 DOMAIN-SUFFIX,m.rprgn.cn
@@ -31,4 +48,5 @@ DOMAIN-SUFFIX,s.0bo.top
 DOMAIN-SUFFIX,s.fisherh.top
 DOMAIN-SUFFIX,safe.hbtnfeishi.com
 DOMAIN-SUFFIX,www.dlxfczs.com
+DOMAIN-SUFFIX,yqs.kfweo2.com
 DOMAIN-SUFFIX,yqs.ubrty.com
