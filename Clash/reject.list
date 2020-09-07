@@ -1,7 +1,7 @@
 [reject_list]
 # Rubbish
 DOMAIN-SUFFIX,dafahao.com
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,dongtaiwang.com
+DOMAIN-SUFFIX,dongtaiwang.com
 DOMAIN-SUFFIX,epochtimes.com
 DOMAIN-SUFFIX,falundafa.org
 DOMAIN-SUFFIX,minghui.org

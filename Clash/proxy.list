@@ -251,7 +251,7 @@ DOMAIN-SUFFIX,ingameads.gameloft.com
 DOMAIN-SUFFIX,n0ve1st0ry.gameloft.com
 DOMAIN-SUFFIX,vgold-chn.gameloft.com
 DOMAIN-SUFFIX,vgold.bdc.gameloft.com
-218.11.2.149/32
+IP-CIDR,218.11.2.149/32,no-resolve
 
 # Github
 DOMAIN-SUFFIX,github.com
@@ -570,7 +570,7 @@ IP-CIDR6,2001:b28:f23d::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
 
 # Twitch
-DOMAIN-SUFFIX,.*ttvnw.akamaized.net
+DOMAIN-SUFFIX,ttvnw.akamaized.net
 DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,twitch.tv
