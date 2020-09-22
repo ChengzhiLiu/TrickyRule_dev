@@ -86,7 +86,6 @@ DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropboxstatic.com
 DOMAIN-SUFFIX,dropboxusercontent.com
-DOMAIN-SUFFIX,dubox.com
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,ec2-54-174-178-70.computer-1.amazonaws.com
 DOMAIN-SUFFIX,ec2-54-174-24-124.computer-1.amazonaws.com
@@ -219,6 +218,10 @@ DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discord.media
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
+
+# Dubox
+DOMAIN-SUFFIX,dubox.com
+DOMAIN-SUFFIX,duboxcdn.com
 
 # Facebook
 DOMAIN-SUFFIX,facebook.com
