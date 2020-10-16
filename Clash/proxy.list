@@ -41,8 +41,10 @@ DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
 
 # Top Oversea Websites
+DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,4sqi.net
 DOMAIN-SUFFIX,a248.e.akamai.net
+DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,android.com
@@ -256,6 +258,7 @@ DOMAIN-SUFFIX,ingameads.gameloft.com
 DOMAIN-SUFFIX,n0ve1st0ry.gameloft.com
 DOMAIN-SUFFIX,vgold-chn.gameloft.com
 DOMAIN-SUFFIX,vgold.bdc.gameloft.com
+IP-CIDR,203.107.43.60/32,no-resolve
 IP-CIDR,218.11.2.149/32,no-resolve
 
 # Github
