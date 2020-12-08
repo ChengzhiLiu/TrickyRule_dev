@@ -1,8 +1,11 @@
 # Gameloft
 DOMAIN-SUFFIX,201205igp.gameloft.com
+DOMAIN-SUFFIX,ap-northeast-2.compute.amazonaws.com
 DOMAIN-SUFFIX,chn-anubisfinder.gameloft.com
 DOMAIN-SUFFIX,chn-gllive-bdc.gameloft.com
 DOMAIN-SUFFIX,chn-janus.gameloft.com
+DOMAIN-SUFFIX,compute-1.amazonaws.com
+DOMAIN-SUFFIX,eu-west-3.compute.amazonaws.com
 DOMAIN-SUFFIX,eve.gameloft.com
 DOMAIN-SUFFIX,game-portal-chn.gameloft.com
 DOMAIN-SUFFIX,ingameads.gameloft.com
