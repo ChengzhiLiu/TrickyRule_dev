@@ -346,6 +346,7 @@ IP-CIDR,119.235.224.0/24,no-resolve
 IP-CIDR,119.235.232.0/24,no-resolve
 IP-CIDR,119.235.235.0/24,no-resolve
 IP-CIDR,119.235.236.0/23,no-resolve
+IP-CIDR,125.209.128.0/17,no-resolve
 IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.128.0/19,no-resolve
 IP-CIDR6,2400:dcc0::/32,no-resolve
