@@ -314,8 +314,6 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,8.8.8.8/32,no-resolve
-IP-CIDR,172.217.3.195/32,no-resolve
-IP-CIDR,172.217.14.227/32,no-resolve
 
 # Instagram
 DOMAIN-SUFFIX,akamaihd.net

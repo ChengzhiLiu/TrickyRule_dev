@@ -377,8 +377,6 @@
 (^|\.)ytimg\.com$
 8.8.4.4/32
 8.8.8.8/32
-172.217.3.195/32
-172.217.14.227/32
 
 # Instagram
 (^|\.)akamaihd\.net$
@@ -922,7 +920,6 @@ fe80::/10
 (^|\.)dl\.l\.google\.com$
 (^|\.)fonts\.googleapis\.com$
 (^|\.)fonts\.gstatic\.com$
-(^|\.)googletagservices\.com$
 (^|\.)gtm\.oasisfeng\.com$
 (^|\.)imasdk\.googleapis\.com$
 (^|\.)khm0\.google\.com$
