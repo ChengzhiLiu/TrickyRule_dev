@@ -7,12 +7,11 @@ DOMAIN-SUFFIX,chn-janus.gameloft.com
 DOMAIN-SUFFIX,compute-1.amazonaws.com
 DOMAIN-SUFFIX,eu-west-3.compute.amazonaws.com
 DOMAIN-SUFFIX,eve.gameloft.com
-DOMAIN-SUFFIX,eve.wshtgame.com
 DOMAIN-SUFFIX,game-portal-chn.gameloft.com
 DOMAIN-SUFFIX,ingameads.gameloft.com
-DOMAIN-SUFFIX,ingameads.wshtgame.com
 DOMAIN-SUFFIX,n0ve1st0ry.gameloft.com
 DOMAIN-SUFFIX,vgold-chn.gameloft.com
 DOMAIN-SUFFIX,vgold.bdc.gameloft.com
+IP-CIDR,119.254.121.233/32,no-resolve
 IP-CIDR,203.107.43.60/32,no-resolve
 IP-CIDR,218.11.2.149/32,no-resolve

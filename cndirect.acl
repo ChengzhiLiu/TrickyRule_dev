@@ -301,12 +301,13 @@
 (^|\.)chn-anubisfinder\.gameloft\.com$
 (^|\.)chn-gllive-bdc\.gameloft\.com$
 (^|\.)chn-janus\.gameloft\.com$
-(^|\.)eve\.(gameloft|wshtgame)\.com$
+(^|\.)eve\.gameloft\.com$
 (^|\.)game-portal-chn\.gameloft\.com$
-(^|\.)ingameads\.(gameloft|wshtgame)\.com$
+(^|\.)ingameads\.gameloft\.com$
 (^|\.)n0ve1st0ry\.gameloft\.com$
 (^|\.)vgold-chn\.gameloft\.com$
 (^|\.)vgold\.bdc\.gameloft\.com$
+119.254.121.233/32
 203.107.43.60/32
 218.11.2.149/32
 
