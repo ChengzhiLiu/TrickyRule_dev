@@ -153,14 +153,19 @@ DOMAIN-SUFFIX,yunjiasu-cdn.net
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,b23.tv
+DOMAIN-SUFFIX,bigfun.cn
+DOMAIN-SUFFIX,bigfunapp.cn
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,bilivideo.cn
+DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
+DOMAIN-SUFFIX,smtcdns.net
 
 # Blizzard
 DOMAIN-SUFFIX,battle.net
@@ -552,6 +557,7 @@ DOMAIN-SUFFIX,upaiyun.com
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,12306.com
+DOMAIN-SUFFIX,13th.tech
 DOMAIN-SUFFIX,17173.com
 DOMAIN-SUFFIX,178.com
 DOMAIN-SUFFIX,17k.com
@@ -737,6 +743,7 @@ DOMAIN-SUFFIX,qiushibaike.com
 DOMAIN-SUFFIX,quanmin.tv
 DOMAIN-SUFFIX,qunar.com
 DOMAIN-SUFFIX,qunarzz.com
+DOMAIN-SUFFIX,qupu123.com
 DOMAIN-SUFFIX,rarbg.to
 DOMAIN-SUFFIX,repaik.com
 DOMAIN-SUFFIX,rrmj.tv
