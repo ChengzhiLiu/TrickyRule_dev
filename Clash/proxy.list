@@ -285,6 +285,7 @@ DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,infinitedata-pa.googleapis.com
+DOMAIN-SUFFIX,issuetracker.google.com
 DOMAIN-SUFFIX,lz[0-9].gstatic.com
 DOMAIN-SUFFIX,mail.gstatic.com
 DOMAIN-SUFFIX,maps.gstatic.com
