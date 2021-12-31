@@ -6,6 +6,7 @@
 (^|\.)pincong\.rocks$
 
 # Website Hijacking
+(^|\.)(s|mbdp02)\.bdstatic\.com$
 (^|\.)activity\.qqjyo\.com$
 (^|\.)ago\.xcp79a\.top$
 (^|\.)backup\.flytech\.xyz$
