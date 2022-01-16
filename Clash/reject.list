@@ -11,10 +11,10 @@ DOMAIN-SUFFIX,soundofhope.org
 DOMAIN-SUFFIX,wujieliulan.com
 
 # Website Hijacking
-DOMAIN-SUFFIX,a.applovin.com
 DOMAIN-SUFFIX,activity.qqjyo.com
 DOMAIN-SUFFIX,ago.xcp79a.top
-DOMAIN-SUFFIX,auction-load.unityads.unity3d.com
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,applvn.com
 DOMAIN-SUFFIX,backup.flytech.xyz
 DOMAIN-SUFFIX,bitbk.mnk0794.com
 DOMAIN-SUFFIX,boxer.baidu.com
@@ -25,7 +25,6 @@ DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,events.mz.unity3d.com
 DOMAIN-SUFFIX,gi.dongfeeng.cc
 DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-SUFFIX,img.applovin.com
 DOMAIN-SUFFIX,impression.appsflyer.com
 DOMAIN-SUFFIX,logs.ironsrc.mobi
 DOMAIN-SUFFIX,m.715zy.cn
@@ -54,19 +53,14 @@ DOMAIN-SUFFIX,mip.yemnn.cn
 DOMAIN-SUFFIX,moatads.com
 DOMAIN-SUFFIX,mp.xi9p.com
 DOMAIN-SUFFIX,mx.nnjxqd.com
-DOMAIN-SUFFIX,prod-a.applovin.com
-DOMAIN-SUFFIX,prod-bid.applovin.com
-DOMAIN-SUFFIX,res1.applovin.com
-DOMAIN-SUFFIX,rt.applovin.com
 DOMAIN-SUFFIX,ru.k335k6.com
 DOMAIN-SUFFIX,s.0bo.top
 DOMAIN-SUFFIX,s.bdstatic.com
 DOMAIN-SUFFIX,s.fisherh.top
 DOMAIN-SUFFIX,safe.hbtnfeishi.com
 DOMAIN-SUFFIX,sdk-api-v1.singular.net
-DOMAIN-SUFFIX,stage-a.applovin.com
-DOMAIN-SUFFIX,stage-bid.applovin.com
 DOMAIN-SUFFIX,supersonicads.com
+DOMAIN-SUFFIX,unityads.unity3d.com
 DOMAIN-SUFFIX,www.dlxfczs.com
 DOMAIN-SUFFIX,yqs.kfweo2.com
 DOMAIN-SUFFIX,yqs.ubrty.com
