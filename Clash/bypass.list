@@ -716,6 +716,8 @@ DOMAIN-SUFFIX,mogujie.com
 DOMAIN-SUFFIX,moji.com
 DOMAIN-SUFFIX,moke.com
 DOMAIN-SUFFIX,mpyit.com
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,msstatic.com
 DOMAIN-SUFFIX,mubu.com
 DOMAIN-SUFFIX,myunlu.com
@@ -801,7 +803,6 @@ DOMAIN-SUFFIX,weiphone.com
 DOMAIN-SUFFIX,weiphone.net
 DOMAIN-SUFFIX,womai.com
 DOMAIN-SUFFIX,wscdns.com
-DOMAIN-SUFFIX,www.msftconnecttest.com
 DOMAIN-SUFFIX,xdrig.com
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xiachufang.com
