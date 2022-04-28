@@ -365,9 +365,15 @@ cfw-bypass:
   - "*.qupu123.com"
   # CN域名直连
   - "*.cn"
-  - "*.中国"
-  - "*.公司"
-  - "*.网络"
+  - "*.xn--3ds443g"
+  - "*.xn--55qx5d"
+  - "*.xn--6qq986b3xl"
+  - "*.xn--czr694b"
+  - "*.xn--czru2d"
+  - "*.xn--fiqs8s"
+  - "*.xn--io0a7i"
+  - "*.xn--kput3i"
+  - "*.xn--ses554g"
   # 中国国内常见域名关键词直连
   - "*-cn*"
   - "*360buy*"
