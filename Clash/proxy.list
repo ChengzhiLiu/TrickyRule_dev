@@ -749,6 +749,13 @@ DOMAIN-SUFFIX,wikiversity.org
 DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wiktionary.org
 
+# Yahoo
+DOMAIN-SUFFIX,yahoo.co.jp
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,yahoo.com.hk
+DOMAIN-SUFFIX,yahoo.com.tw
+DOMAIN-SUFFIX,yahoo.net
+
 # 飞流直播
 DOMAIN-SUFFIX,flzbcdn.xyz
 DOMAIN-SUFFIX,icntv.xyz
