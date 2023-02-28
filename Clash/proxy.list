@@ -230,11 +230,33 @@ DOMAIN-SUFFIX,dubox.com
 DOMAIN-SUFFIX,duboxcdn.com
 
 # Facebook
-DOMAIN-SUFFIX,facebook.com
+DOMAIN-KEYWORD,facebook
+DOMAIN-SUFFIX,accountkit.com
+DOMAIN-SUFFIX,acebook.com
+DOMAIN-SUFFIX,faacebook.com
+DOMAIN-SUFFIX,facebbook.com
+DOMAIN-SUFFIX,fb.audio
 DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.gg
 DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,fbcdn.com
 DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbe2e.com
+DOMAIN-SUFFIX,fbinfra.net
+DOMAIN-SUFFIX,fbpigeon.com
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fbthirdpartypixel.com
+DOMAIN-SUFFIX,fbwat.ch
+DOMAIN-SUFFIX,internet.org
+DOMAIN-SUFFIX,m-freeway.com
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,metacareers.com
+DOMAIN-SUFFIX,msngr.com
+DOMAIN-SUFFIX,parse.com
+DOMAIN-SUFFIX,wit.ai
 IP-CIDR,31.13.24.0/21
 IP-CIDR,31.13.64.0/18
 IP-CIDR,45.64.40.0/22
@@ -441,8 +463,10 @@ IP-CIDR,220.181.174.162/32
 IP-CIDR,220.181.174.226/32
 
 # Instagram
+DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,ig.me
 DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,instagram.com
 
@@ -719,6 +743,8 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twimg.org
 
 # Whatsapp
+DOMAIN-KEYWORD,whatsapp
+DOMAIN-SUFFIX,wa.me
 IP-CIDR,18.194.0.0/15
 IP-CIDR,34.224.0.0/12
 IP-CIDR,50.22.198.204/30
