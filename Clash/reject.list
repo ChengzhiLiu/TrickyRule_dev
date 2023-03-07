@@ -1,1 +1,2 @@
 [reject_list]
+IP-CIDR6,2a03:2880::/29
