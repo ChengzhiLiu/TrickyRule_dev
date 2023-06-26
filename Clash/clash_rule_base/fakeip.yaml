@@ -187,6 +187,10 @@ dns:
      - '*.finalfantasyxiv.com'
      - '*.ffxiv.com'
      #OPPO
+     - '*.6g-intelligence.com'
+     - '*.allawnfs.com'
+     - '*.allawno.com'
+     - '*.allawntech.com'
      - '*.coloros.com'
      - '*.heytap.com'
      - '*.heytapmobi.com'
@@ -194,6 +198,7 @@ dns:
      - '*.myoas.net'
      - '*.myoppo.com'
      - '*.nearme.com'
+     - '*.opdwz.cn'
      - '*.oppo.cn'
      - '*.oppo.com'
      - '*.oppofind.com'
@@ -202,6 +207,7 @@ dns:
      - '*.realme.com'
      - '*.realme.net'
      - '*.wanyol.com'
+     - '*.wireless-intelligence.com'
      - '*.xiniaoyun.com'
      - '*.yeahzee.com'
   nameserver:
