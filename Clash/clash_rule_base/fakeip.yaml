@@ -178,6 +178,8 @@ dns:
      - 'swcdn.apple.com'
      - 'swdist.apple.com'
      #Google
+     - '*.google.cn'
+     - '*.googleapis.cn'
      - 'lens.l.google.com'
      - 'stun.l.google.com'
      #Netflix
