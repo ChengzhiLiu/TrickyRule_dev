@@ -178,8 +178,6 @@ dns:
      - 'swcdn.apple.com'
      - 'swdist.apple.com'
      #Google
-     - '*.google.cn'
-     - '*.googleapis.cn'
      - 'lens.l.google.com'
      - 'stun.l.google.com'
      #Netflix
@@ -188,30 +186,6 @@ dns:
      - '*.square-enix.com'
      - '*.finalfantasyxiv.com'
      - '*.ffxiv.com'
-     #OPPO
-     - '*.6g-intelligence.com'
-     - '*.allawnfs.com'
-     - '*.allawno.com'
-     - '*.allawntech.com'
-     - '*.coloros.com'
-     - '*.heytap.com'
-     - '*.heytapmobi.com'
-     - '*.myoas.com'
-     - '*.myoas.net'
-     - '*.myoppo.com'
-     - '*.nearme.com'
-     - '*.opdwz.cn'
-     - '*.oppo.cn'
-     - '*.oppo.com'
-     - '*.oppofind.com'
-     - '*.oppomobile.com'
-     - '*.opposhop.cn'
-     - '*.realme.com'
-     - '*.realme.net'
-     - '*.wanyol.com'
-     - '*.wireless-intelligence.com'
-     - '*.xiniaoyun.com'
-     - '*.yeahzee.com'
   nameserver:
      - 114.114.114.114
      - 119.29.29.29
