@@ -26,9 +26,9 @@ ipv6: true
 
 # 规则模式：rule（规则） / global（全局代理）/ direct（全局直连）/ script (脚本)
 # mode: rule
-script:
-  shortcuts:
-    quic: network == 'udp' and dst_port == 443 and (geoip(resolve_ip(host)) != 'CN' or geoip(dst_ip) != 'CN')
+# script:
+  # shortcuts:
+    # quic: network == 'udp' and dst_port == 443 and (geoip(resolve_ip(host)) != 'CN' or geoip(dst_ip) != 'CN')
 
 # 设置日志输出级别 (默认级别：silent，即不输出任何内容，以避免因日志内容过大而导致程序内存溢出）。
 # 5 个级别：silent / error / warning / info / debug。级别越高日志输出量越大，越倾向于调试，若需要请自行开启。
@@ -150,13 +150,12 @@ dns:
      - www.bilibili.com
      - api.bilibili.com
      - a.w.bilicdn1.com
-  default-nameserver:
-     - 119.29.29.29
-     - 8.8.8.8
-     - 1.1.1.1
   nameserver:
      - 223.5.5.5
      - 119.29.29.29
+  fallback:
+     - 8.8.8.8
+     - 1.1.1.1
 
 # 1. clash DNS 请求逻辑：
 #   (1) 当访问一个域名时， nameserver 与 fallback 列表内的所有服务器并发请求，得到域名对应的 IP 地址。
