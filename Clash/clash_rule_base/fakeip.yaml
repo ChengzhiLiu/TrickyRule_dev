@@ -150,6 +150,13 @@ dns:
      - www.bilibili.com
      - api.bilibili.com
      - a.w.bilicdn1.com
+     - "*.google.com"
+     - "*.googleapis.com"
+     - "*.googleusercontent.com"
+     - "*.googlevideo.com"
+     - "*.gstatic.com"
+     - "*.xn--ngstr-lra8j.com"
+     - "*.youtube.com"
   nameserver:
      - 223.5.5.5
      - 119.29.29.29
