@@ -61,9 +61,17 @@ experimental:
 # 实验性功能 hosts, 支持通配符 (例如 *.clash.dev 甚至 *.foo.*.example.com)
 # 静态的域名 比 通配域名 具有更高的优先级 (foo.example.com 优先于 *.example.com)
 # 注意: hosts 在 fake-ip 模式下不生效
-#hosts:
-#   '*.clash.dev': 127.0.0.1
-#   'alpha.clash.dev': '::1'
+hosts:
+  'sdpc.dianxin.com': 198.18.0.2
+  'mtalk.google.com': 108.177.97.188
+  'alt1-mtalk.google.com': 64.233.186.188 
+  'alt2-mtalk.google.com': 209.85.202.188
+  'alt3-mtalk.google.com': 74.125.200.188
+  'alt4-mtalk.google.com': 74.125.200.188
+  'alt5-mtalk.google.com': 142.250.153.188
+  'alt6-mtalk.google.com': 142.251.9.188
+  'alt7-mtalk.google.com': 142.250.150.188
+  'alt8-mtalk.google.com': 142.250.153.188
 
 dns:
   enable: true # 是否启用dns false
