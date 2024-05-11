@@ -172,7 +172,7 @@ dns:
      - 208.67.222.222
      - 9.9.9.9
   fallback-filter:
-    geoip: false 
+    geoip: true 
     ipcidr:
       - 0.0.0.0/8
       - 10.0.0.0/8
