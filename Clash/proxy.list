@@ -129,6 +129,9 @@ DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nsstatic.net
 DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,openvpn.net
+DOMAIN-SUFFIX,opera-mini.net
+DOMAIN-SUFFIX,opera.com
+DOMAIN-SUFFIX,operamini.com
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,ping.pe
 DOMAIN-SUFFIX,pinimg.com
@@ -278,6 +281,7 @@ DOMAIN-SUFFIX,s3.amazonaws.com
 
 # Google
 DOMAIN-KEYWORD,accounts.google.
+DOMAIN-SUFFIX,.goog
 DOMAIN-SUFFIX,accounts.gstatic.com
 DOMAIN-SUFFIX,android-safebrowsing.google.com
 DOMAIN-SUFFIX,android.googleapis.com
@@ -357,24 +361,24 @@ DOMAIN-SUFFIX,mail.gstatic.com
 DOMAIN-SUFFIX,maps.gstatic.com
 DOMAIN-SUFFIX,metric.gstatic.com
 DOMAIN-SUFFIX,mt0.google.cn
-DOMAIN-SUFFIX,mt1.google.cn
-DOMAIN-SUFFIX,mt2.google.cn
-DOMAIN-SUFFIX,mt3.google.cn
-DOMAIN-SUFFIX,mt4.google.cn
-DOMAIN-SUFFIX,mt5.google.cn
-DOMAIN-SUFFIX,mt6.google.cn
-DOMAIN-SUFFIX,mt7.google.cn
-DOMAIN-SUFFIX,mt8.google.cn
-DOMAIN-SUFFIX,mt9.google.cn
 DOMAIN-SUFFIX,mt0.gstatic.com
+DOMAIN-SUFFIX,mt1.google.cn
 DOMAIN-SUFFIX,mt1.gstatic.com
+DOMAIN-SUFFIX,mt2.google.cn
 DOMAIN-SUFFIX,mt2.gstatic.com
+DOMAIN-SUFFIX,mt3.google.cn
 DOMAIN-SUFFIX,mt3.gstatic.com
+DOMAIN-SUFFIX,mt4.google.cn
 DOMAIN-SUFFIX,mt4.gstatic.com
+DOMAIN-SUFFIX,mt5.google.cn
 DOMAIN-SUFFIX,mt5.gstatic.com
+DOMAIN-SUFFIX,mt6.google.cn
 DOMAIN-SUFFIX,mt6.gstatic.com
+DOMAIN-SUFFIX,mt7.google.cn
 DOMAIN-SUFFIX,mt7.gstatic.com
+DOMAIN-SUFFIX,mt8.google.cn
 DOMAIN-SUFFIX,mt8.gstatic.com
+DOMAIN-SUFFIX,mt9.google.cn
 DOMAIN-SUFFIX,mt9.gstatic.com
 DOMAIN-SUFFIX,mw0.gstatic.com
 DOMAIN-SUFFIX,mw1.gstatic.com
