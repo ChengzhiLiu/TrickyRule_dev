@@ -281,7 +281,7 @@ DOMAIN-SUFFIX,s3.amazonaws.com
 
 # Google
 DOMAIN-KEYWORD,accounts.google.
-DOMAIN-SUFFIX,.goog
+DOMAIN-SUFFIX,goog
 DOMAIN-SUFFIX,accounts.gstatic.com
 DOMAIN-SUFFIX,android-safebrowsing.google.com
 DOMAIN-SUFFIX,android.googleapis.com
