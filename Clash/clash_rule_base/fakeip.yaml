@@ -81,14 +81,14 @@ dns:
   enhanced-mode: fake-ip # 模式：redir-host或fake-ip
   fake-ip-range: 28.0.0.0/8 #
   fake-ip-filter: # fake ip 白名单列表，如果你不知道这个参数的作用，请勿修改
-     - '*.lan'
-     - '*.localdomain'
-     - '*.example'
-     - '*.invalid'
-     - '*.localhost'
-     - '*.test'
-     - '*.local'
-     - '*.home.arpa'
+     - '.lan'
+     - '.localdomain'
+     - '.example'
+     - '.invalid'
+     - '.localhost'
+     - '.test'
+     - '.local'
+     - '.home.arpa'
      - time.*.com
      - time.*.gov
      - time.*.edu.cn
@@ -108,26 +108,26 @@ dns:
      - ntp5.*.com
      - ntp6.*.com
      - ntp7.*.com
-     - '*.time.edu.cn'
-     - '*.ntp.org.cn'
-     - +.pool.ntp.org
+     - '+.time.edu.cn'
+     - '+.ntp.org.cn'
+     - '+.pool.ntp.org'
      - time1.cloud.tencent.com
      - stun.*.*
      - stun.*.*.*
      - swscan.apple.com
      - mesu.apple.com
      - music.163.com
-     - '*.music.163.com'
-     - '*.126.net'
+     - '+.music.163.com'
+     - '+.126.net'
      - musicapi.taihe.com
      - music.taihe.com
      - songsearch.kugou.com
      - trackercdn.kugou.com
-     - '*.kuwo.cn'
+     - '+.kuwo.cn'
      - api-jooxtt.sanook.com
      - api.joox.com
      - y.qq.com
-     - '*.y.qq.com'
+     - '+.y.qq.com'
      - streamoc.music.tc.qq.com
      - mobileoc.music.tc.qq.com
      - isure.stream.qqmusic.qq.com
@@ -135,37 +135,54 @@ dns:
      - aqqmusic.tc.qq.com
      - amobile.music.tc.qq.com
      - localhost.ptlogin2.qq.com
-     - '*.msftconnecttest.com'
-     - '*.msftncsi.com'
-     - '*.xiami.com'
-     - '*.music.migu.cn'
+     - '+.msftconnecttest.com'
+     - '+.msftncsi.com'
+     - '+.xiami.com'
+     - '+.music.migu.cn'
      - music.migu.cn
-     - +.wotgame.cn
-     - +.wggames.cn
-     - +.wowsgame.cn
-     - +.wargaming.net
-     - '*.*.*.srv.nintendo.net'
-     - '*.*.stun.playstation.net'
+     - '+.wotgame.cn'
+     - '+.wggames.cn'
+     - '+.wowsgame.cn'
+     - '+.wargaming.net'
+     - '+.srv.nintendo.net'
+     - '+.stun.playstation.net'
      - xbox.*.*.microsoft.com
-     - '*.*.xboxlive.com'
-     - '*.ipv6.microsoft.com'
+     - '+.xboxlive.com'
+     - '+.ipv6.microsoft.com'
      - teredo.*.*.*
      - teredo.*.*
      - speedtest.cros.wr.pvp.net
-     - +.jjvip8.com
+     - '+.jjvip8.com'
      - www.douyu.com
      - activityapi.huya.com
      - activityapi.huya.com.w.cdngslb.com
      - www.bilibili.com
      - api.bilibili.com
      - a.w.bilicdn1.com
-     - "*.google.com"
-     - "*.googleapis.com"
-     - "*.googleusercontent.com"
-     - "*.googlevideo.com"
-     - "*.gstatic.com"
-     - "*.xn--ngstr-lra8j.com"
-     - "*.youtube.com"
+     - '+.gmail.*'
+     - '+.gmail.*.*'
+     - '+.google.*'
+     - '+.google.*.*'
+     - '+.1e100.net'
+     - '+.2mdn.net'
+     - '+.app-measurement.net'
+     - '+.g.co'
+     - '+.ggpht.com'
+     - '+.goo.gl'
+     - '+.googleapis.cn'
+     - '+.googleapis.com'
+     - '+.gstatic.cn'
+     - '+.gstatic.com'
+     - '+.gvt0.com'
+     - '+.gvt1.com'
+     - '+.gvt2.com'
+     - '+.gvt3.com'
+     - '+.xn--ngstr-lra8j.com'
+     - '+.youtu.be'
+     - '+.youtube-nocookie.com'
+     - '+.youtube.com'
+     - '+.yt.be'
+     - '+.ytimg.com'
   nameserver:
      - 223.5.5.5
      - 119.29.29.29
