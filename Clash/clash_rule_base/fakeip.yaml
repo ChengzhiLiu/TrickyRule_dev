@@ -184,8 +184,9 @@ dns:
      - '+.yt.be'
      - '+.ytimg.com'
   nameserver:
-     - 223.5.5.5
-     - 119.29.29.29
+     - https://kfzzxcx.com:44443/dns-query/c64227d5-6ca3-4551-8335-847a6cbee514
+     - https://destitute2725.com:44443/dns-query/c64227d5-6ca3-4551-8335-847a6cbee514
+     - https://prolonged3729.com:443/dns-query/c64227d5-6ca3-4551-8335-847a6cbee514
   fallback:
      - 208.67.222.222
      - 9.9.9.9
