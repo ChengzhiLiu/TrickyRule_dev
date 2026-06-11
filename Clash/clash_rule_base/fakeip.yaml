@@ -201,9 +201,7 @@ dns:
      - 223.5.5.5
      - 223.6.6.6
   nameserver:
-     - https://kfzzxcx.com:44443/dns-query/a6309184-c89f-4bc6-9ee8-80710c561846
-     - https://destitute2725.com:44443/dns-query/a6309184-c89f-4bc6-9ee8-80710c561846
-     - https://prolonged3729.com:443/dns-query/a6309184-c89f-4bc6-9ee8-80710c561846
+    # 此处需自定义
   fallback:
      - 208.67.222.222
      - 9.9.9.9
