@@ -74,6 +74,18 @@ hosts:
   'alt7-mtalk.google.com': 142.250.107.188
   'alt8-mtalk.google.com': 142.251.170.188  
 
+sniffer:
+  sniff:
+    TLS: {ports: [443], override-destination: true}
+    HTTP: {ports: [443], override-destination: true}
+  enable: true
+  skip-domain:
+    - Mijia Cloud
+    - dlg.io.mi.com
+  parse-pure-ip: false
+  force-dns-mapping: true
+  override-destination: true
+
 dns:
   enable: true # 是否启用dns false
   ipv6: true
@@ -189,9 +201,9 @@ dns:
      - 223.5.5.5
      - 223.6.6.6
   nameserver:
-     - https://kfzzxcx.com:44443/dns-query/3be0100a-d2a9-46ff-9522-39344dd0ed57
-     - https://destitute2725.com:44443/dns-query/3be0100a-d2a9-46ff-9522-39344dd0ed57
-     - https://prolonged3729.com:443/dns-query/3be0100a-d2a9-46ff-9522-39344dd0ed57
+     - https://kfzzxcx.com:44443/dns-query/a6309184-c89f-4bc6-9ee8-80710c561846
+     - https://destitute2725.com:44443/dns-query/a6309184-c89f-4bc6-9ee8-80710c561846
+     - https://prolonged3729.com:443/dns-query/a6309184-c89f-4bc6-9ee8-80710c561846
   fallback:
      - 208.67.222.222
      - 9.9.9.9
