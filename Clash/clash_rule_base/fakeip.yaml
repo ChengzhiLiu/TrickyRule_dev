@@ -183,10 +183,15 @@ dns:
      - '+.youtube.com'
      - '+.yt.be'
      - '+.ytimg.com'
+  default-nameserver:
+     - 119.28.28.28
+     - 119.29.29.29
+     - 223.5.5.5
+     - 223.6.6.6
   nameserver:
-     - https://kfzzxcx.com:44443/dns-query/c64227d5-6ca3-4551-8335-847a6cbee514
-     - https://destitute2725.com:44443/dns-query/c64227d5-6ca3-4551-8335-847a6cbee514
-     - https://prolonged3729.com:443/dns-query/c64227d5-6ca3-4551-8335-847a6cbee514
+     - https://kfzzxcx.com:44443/dns-query/3be0100a-d2a9-46ff-9522-39344dd0ed57
+     - https://destitute2725.com:44443/dns-query/3be0100a-d2a9-46ff-9522-39344dd0ed57
+     - https://prolonged3729.com:443/dns-query/3be0100a-d2a9-46ff-9522-39344dd0ed57
   fallback:
      - 208.67.222.222
      - 9.9.9.9
